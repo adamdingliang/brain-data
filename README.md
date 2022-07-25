@@ -22,3 +22,4 @@
 1. Molecular landscapes of human hippocampal immature neurons across lifespan [Nature](https://www.nature.com/articles/s41586-022-04912-w#data-availability) (single-nucleus)
 
 ## Alzheimer’s disease
+1. Single-nucleus chromatin accessibility and transcriptomic characterization of Alzheimer’s disease [Nature Genetics](https://www.nature.com/articles/s41588-021-00894-z)

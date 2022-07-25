@@ -18,4 +18,4 @@
 2. Azimuth https://azimuth.hubmapconsortium.org/ (Mouse and Human)
 
 ### Hippocampus
-1. Molecular landscapes of human hippocampal immature neurons across lifespan (single-nucleus)
+1. Molecular landscapes of human hippocampal immature neurons across lifespan [Nature](https://www.nature.com/articles/s41586-022-04912-w#data-availability) (single-nucleus)

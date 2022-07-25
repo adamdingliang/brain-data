@@ -6,7 +6,7 @@
 2. MerFish https://datadryad.org/stash/dataset/doi:10.5061/dryad.x3ffbg7mw (Mouse and Human)
 
 #### Single-cell
-1. Azimuth https://azimuth.hubmapconsortium.org/
+1. Azimuth https://azimuth.hubmapconsortium.org/ (Mouse and Human)
 
 ## Human
 ### Cortex
@@ -15,4 +15,4 @@
 
 #### Single-cell
 1. SMART-seq https://portal.brain-map.org/atlases-and-data/rnaseq/human-mtg-smart-seq
-2. Azimuth https://azimuth.hubmapconsortium.org/
+2. Azimuth https://azimuth.hubmapconsortium.org/ (Mouse and Human)

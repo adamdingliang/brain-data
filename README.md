@@ -9,6 +9,10 @@
 ##### Single-cell (single-nucleus)
 1. Azimuth https://azimuth.hubmapconsortium.org/ (Mouse and Human)
 
+##### Aging
+1. Single-cell transcriptomic profiling of the aging mouse brain [Nature Neuroscience](https://www.nature.com/articles/s41593-019-0491-3)
+2. A distinct astrocyte subtype in the aging mouse brain characterized by impaired protein homeostasis [Nature Aging](https://www.nature.com/articles/s43587-022-00257-1)
+
 ### Human
 #### Cortex
 ##### Spatial
